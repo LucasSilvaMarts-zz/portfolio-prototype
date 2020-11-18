@@ -1,4 +1,4 @@
-## Prtótipo de portfólio
+## Protótipo de portfólio
 
 Esse é um pequeno projeto feito como exercício proposto pela Trybe 
 
