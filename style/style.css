@@ -6,3 +6,12 @@ body {
     font-family: 'Goldman', cursive;
     color: #2EFEF7;
 }
+
+.description {
+    font-family: 'Roboto', sans-serif;
+    color: #F2F2F2;
+}
+
+strong {
+    color: #2EFEF7;
+}
