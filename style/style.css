@@ -28,6 +28,7 @@ strong {
 
 ul li {
     color: #F2F2F2;
+    font-family: 'Roboto', sans-serif;
 }
 
 .hab1 {
@@ -43,6 +44,7 @@ ul li {
 }
 
 .link {
+    font-family: 'Roboto', sans-serif;
     text-decoration: none;
     color: aqua;
 }
