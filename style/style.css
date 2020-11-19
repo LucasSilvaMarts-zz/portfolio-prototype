@@ -2,6 +2,16 @@ body {
     background-color: #151515;
 }
 
+#nav {
+    list-style: none;
+}
+
+.nav-cont {
+    color: aqua;
+}
+
+
+
 .title {
     font-family: 'Goldman', cursive;
     color: #2EFEF7;
@@ -30,4 +40,9 @@ ul li {
 
 .hab3 {
     font-size: 20px;
+}
+
+.link {
+    text-decoration: none;
+    color: aqua;
 }
