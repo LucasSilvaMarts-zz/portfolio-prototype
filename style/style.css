@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background-color: #151515;
 }
@@ -15,11 +20,13 @@ body {
 .title {
     font-family: 'Goldman', cursive;
     color: #2EFEF7;
+    text-align: center;
 }
 
 .description {
     font-family: 'Roboto', sans-serif;
     color: #F2F2F2;
+    margin-top: 35px;
 }
 
 strong {
@@ -47,4 +54,25 @@ ul li {
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
     color: aqua;
+}
+
+.hero {
+    float: left;
+    margin: 35px;
+    padding: 35px;
+    border-radius: 50px;
+    background-color: #424242;
+}
+
+.about-me {
+    border: 1px solid red;
+    width: 90%;
+    height: 350px;
+    
+}
+
+.title-about {
+    font-family: 'Goldman', cursive;
+    color: #2EFEF7;
+    margin-top: 35px;
 }
