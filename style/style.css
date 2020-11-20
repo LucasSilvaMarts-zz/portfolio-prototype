@@ -102,3 +102,14 @@ ul {
     margin: 35px; 
     padding: 35px;
 }
+
+#blog-section {
+    border: 1px solid red;
+    padding: 35px;
+}
+
+.blog-title {
+    font-family: 'Goldman', cursive;
+    color: #2EFEF7;
+    margin-bottom: 35px;
+}
