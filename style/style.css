@@ -7,8 +7,24 @@ body {
     background-color: #151515;
 }
 
+#nav-section {
+    margin: 35px;
+    padding: 40px;
+    
+}
+
 #nav {
     list-style: none;
+    margin: 35px;
+    padding: 35px;
+    
+}
+
+#nav li {
+    float: left;
+    margin: 35px;
+    display: inline;    
+    
 }
 
 .nav-cont {
@@ -62,10 +78,10 @@ ul li {
     padding: 35px;
     border-radius: 50px;
     background-color: #424242;
+    z-index: 1;
 }
 
 .about-me {
-    border: 1px solid red;
     margin: 35px;
     width: 90%;
     height: 350px;
@@ -79,7 +95,6 @@ ul li {
 }
 
 #hab-section {
-    border: 1px solid red;
     margin: 35px;
     padding: 35px;
     height: 200px;
@@ -93,7 +108,7 @@ ul li {
 }
 
 ul {
-    margin-left: 225px;
+    margin-left: 220px;
 }
 
 #list li {
@@ -104,7 +119,6 @@ ul {
 }
 
 #blog-section {
-    border: 1px solid red;
     padding: 35px;
 }
 
