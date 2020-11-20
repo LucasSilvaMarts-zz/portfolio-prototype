@@ -66,6 +66,7 @@ ul li {
 
 .about-me {
     border: 1px solid red;
+    margin: 35px;
     width: 90%;
     height: 350px;
     
@@ -75,4 +76,29 @@ ul li {
     font-family: 'Goldman', cursive;
     color: #2EFEF7;
     margin-top: 35px;
+}
+
+#hab-section {
+    border: 1px solid red;
+    margin: 35px;
+    padding: 35px;
+    height: 200px;
+}
+
+.title-hab {
+    text-align: center;
+    font-family: 'Goldman', cursive;
+    color: #2EFEF7;
+    margin-top: 35px;
+}
+
+ul {
+    margin-left: 225px;
+}
+
+#list li {
+    float: left;
+    display: inline;
+    margin: 35px; 
+    padding: 35px;
 }
