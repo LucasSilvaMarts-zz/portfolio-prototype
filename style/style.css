@@ -42,7 +42,7 @@ body {
 .description {
     font-family: 'Roboto', sans-serif;
     color: #F2F2F2;
-    margin-top: 35px;
+    padding: 150px;
 }
 
 strong {
@@ -82,7 +82,7 @@ ul li {
 }
 
 .about-me {
-    margin: 35px;
+    margin: 100px;
     width: 90%;
     height: 350px;
     
@@ -91,8 +91,11 @@ ul li {
 .title-about {
     font-family: 'Goldman', cursive;
     color: #2EFEF7;
-    margin-top: 35px;
+    float: left;
+    margin-top: 100px;
 }
+
+
 
 #hab-section {
     margin: 35px;
